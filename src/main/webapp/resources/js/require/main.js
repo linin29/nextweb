@@ -39,7 +39,7 @@ requirejs([ 'jquery', 'index', 'angular' , 'user_index'], function($, index, ang
 	//alert(index.color);
 	var app = angular.module('myApp', []);
 	app.controller('myCtrl', function($scope) {
-		$scope.firstName = "nin试试g";
+		$scope.firstName = "ning";
 		$scope.lastName = "li";
 		$scope.index = index;
 	});
