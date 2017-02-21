@@ -1,5 +1,5 @@
 /**
- * <b>项目名：</b>区域教育信息化综合解决方案<br/>
+ * <b>项目名：</b>nextweb<br/>
  * <b>包   名：</b>com.glinin.nextweb.controller<br/>
  * <b>文件名：</b>UserController.java<br/>
  * <b>版本信息：</b>4.0<br/>
@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
  * <b>类 名：</b>UserController<br/>
- * <b>类描述：</b>描述这个类的功能<br/>
+ * <b>类描述：</b>用户controller<br/>
  * <b>创建人：</b>ningli<br/>
  * <b>创建时间：</b>2016年8月12日 下午1:57:00<br/>
  * <b>修改人：</b>ningli<br/>
